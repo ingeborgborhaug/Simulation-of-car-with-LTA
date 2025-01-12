@@ -18,5 +18,7 @@ This repository contains the code and documentation for Lab 2 of the Robotics co
 
 5. Steer with arrow-keys and/or let the LTA steer it self.
 
+More information about the code itself is in the report paper.
+
 
 
